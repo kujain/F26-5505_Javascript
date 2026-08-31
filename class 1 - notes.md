@@ -274,7 +274,7 @@ console.log(‘Hello’);
 ```
 ## Javascript Flex - Exercise 1
 
-https://github.com/kujain/F26-5505_Javascript/blob/main/class-1-exercises.md
+[https://github.com/kujain/F26-5505_Javascript/blob/main/class-1-exercises.md](https://github.com/kujain/F26-5505_Javascript/blob/main/class%201%20-%20exercises.md)
 
 **Hello World!**
 ```
@@ -357,7 +357,7 @@ document.body.style.backgroundColor = bgColor;
 ## Javascript Flex - Exercise 4
 **Text to Image generator using stability.ai API interface to Stable Diffusion v.1**
 Downloadable files:
-https://github.com/kujain/F26-5505_Javascript/blob/main/class-1_exercise-4.zip
+[https://github.com/kujain/F26-5505_Javascript/blob/main/class-1_exercise-4.zip](https://github.com/kujain/F26-5505_Javascript/blob/main/class-1_exercise-4.zip)
 ```
 // start the form event handler on submit
 document.getElementById('form').addEventListener('submit', function(e) {
