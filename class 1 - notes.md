@@ -5,7 +5,7 @@
 
 ## Why Learn Coding?
 **PROS**
-- Better understanding of what goes into creating computer web/applications.
+- Better understanding of what goes into creating web apps.
 - Better understanding of limits of design ideas.
 - Create  more efficient and empathic design.
 - Development of Logical Thinking.
@@ -61,7 +61,7 @@ public static int fctl(int n)
 {	
 int result = 1;
 		for(int i = 2; i <= n; i++)
-			result *= i;
+			result = result * i;
 		return result;
 }
 
@@ -152,9 +152,11 @@ if (score >= 50) {
 ```
 
 ## What Can Javascript do?
-Generative http://color-wander.surge.sh/
+Generative 
+http://color-wander.surge.sh/
 
-Informative http://www.histography.io/
+Informative 
+http://www.histography.io/
 
 Apps
 http://uber.com
@@ -164,6 +166,7 @@ https://slack.com/
 Entertainment
 https://www.netflix.com/ 
 https://www.hulu.com 
+https://www.cross-code.com/en/start
 
 3D
 http://alteredqualia.com/three/examples/webgl_city.html
@@ -191,6 +194,27 @@ https://minitokyo3d.com/
 - Many popular frameworks: jQuery, Angular, Vue, React, Next
 - Isomorphic - can be used in frontend and servers
 
+
+## Syllabus
+### CORE
+- Syntax and Constructs
+- Document Object Model
+- Forms and AJAX
+- Classes and Object Oriented Programming
+- Midterm Project
+
+### ADVANCED
+- Functional Programming
+- JS in the Backend: Nodejs
+- Modules and Patterns
+- Web/HTML APIs, Canvas, SVG
+
+### TOOLING & FRAMEWORKS
+- DevOps Workflows
+- Advanced: Frameworks (React), UX Applications
+- Final Project Development
+
+
 ## Tools of the Trade
 ### Text Editors
 Visual Studio Code	https://code.visualstudio.com/
@@ -205,15 +229,16 @@ Safari: 			included in macOS
 
 ### Debugger & Tools
 Built in Browser Developer Console (Fn + F12)
-Patterns Reference:	https://jstherightway.org/
+Patterns Reference:	[The Art of Writing Clean JavaScript Code: 12 Patterns You Must Know](https://medium.com/@ignatovich.dm/the-art-of-writing-clean-javascript-code-12-patterns-you-must-know-subjective-opinion-7a2c237226ae)
 
 ### Automators
-NPM, Babel, Webpack, ES Build 
+NPM, Babel, Webpack, ES Build, Vite
 These will be discussed during DevOps session
 
 ## Creating a Basic HTML Template
 
-Download from: [https://github.com/kujain/F25-5505_Javascript/blob/main/class-1_html-boilerplate.zip](https://github.com/kujain/F26-5505_Javascript/blob/main/class-1_html-boilerplate.zip)
+Download from: https://github.com/kujain/F26-5505_Javascript/blob/main/class-1_html-boilerplate.zip
+
 ```
 <!doctype html>
 
@@ -278,14 +303,14 @@ console.log(‘Hello’);
 
 **Hello World!**
 ```
-console.log(‘Hello World’);
+console.log(‘Hello Fall 2026 Class’);
 ```
 
 **Using vars with Hello World!**
 ```
 let greeting_container;
 // assign greeting to variable
-greeting_container = “Hello World”;
+greeting_container = “Hello Fall 2026 Class”;
 console.log(greeting_container);
 ```
 
