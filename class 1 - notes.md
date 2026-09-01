@@ -196,20 +196,20 @@ https://minitokyo3d.com/
 
 
 ## Syllabus
-### CORE
+#### CORE
 - Syntax and Constructs
 - Document Object Model
 - Forms and AJAX
 - Classes and Object Oriented Programming
 - Midterm Project
 
-### ADVANCED
+#### ADVANCED
 - Functional Programming
 - JS in the Backend: Nodejs
 - Modules and Patterns
 - Web/HTML APIs, Canvas, SVG
 
-### TOOLING & FRAMEWORKS
+#### TOOLING & FRAMEWORKS
 - DevOps Workflows
 - Advanced: Frameworks (React), UX Applications
 - Final Project Development
