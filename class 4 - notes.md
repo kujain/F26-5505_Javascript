@@ -430,7 +430,7 @@ person1.getFullName();
 ### The Maths Areas Calculator Object
 1. Create a Shape object
 2. create a "number of side" property that can be changed on definition or later.
-3. create a method for areas calculation for the shape based on the number of sides provided.
+3. create a method for areas calculation for the shape based on the number of sides provided. Use this formula (convert the javascript as needed): `(sides x length^2) / (4 x tan(pi/sides))`
 4. Similarly create a method for perimeter calculation for the shape based on the number of sides provided
 
 ## EXERCISE 3
