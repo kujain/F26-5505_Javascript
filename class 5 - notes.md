@@ -349,3 +349,6 @@ list.addEventListener("click",function(e){
   e.preventDefault();
 });
 ```
+
+## CLASS EXERCISES
+https://github.com/kujain/F26-5505_Javascript/blob/main/class%205%20-%20exercises.md
