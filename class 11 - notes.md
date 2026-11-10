@@ -33,9 +33,9 @@ Add the brew location in the profile file:
 export PATH="/opt/homebrew/bin:$PATH"
 echo 'export PATH="/opt/homebrew/bin:$PATH"' >> ~/.bash_profile
 ```
-## Install latest LTS Nodejs (24) (also installs NPM version 11): 
+## Install latest LTS Nodejs (26) (also installs NPM version 11): 
 ```
-brew install node@24
+brew install node@26
 ```
 to upgrade: `brew upgrade node`
 
@@ -48,7 +48,7 @@ brew install git
 
 # 1. Start:
 
-**Note:** if your node version is v25 or later (current is v24) (check by typing `node -v` and see the resulting version), please downgrade to 24 LTS. V26 is available but it's safest to work with the latest LTS version most of the time. 
+**Note:** if your node version is v25 or later (current is v26) (check by typing `node -v` and see the resulting version), please downgrade to 26 LTS. V28 is available but it's safest to work with the latest LTS version most of the time. 
 ```
 node -v
 ```
